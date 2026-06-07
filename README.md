@@ -1,7 +1,7 @@
 # Hi, I am Isabel Telöcken 🙋🏼‍♀️🇧🇷
 
-Full-stack developer and Electrical Engineering student at UFSC. Building software for industrial and multinational clients since 2024.
- 
+Full-stack developer and Engineering student at UFSC. I build scalable software and data solutions for industrial and multinational clients.
+
 ### 🛠️ Tech Stack
 
 - **ML & Data:** ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
