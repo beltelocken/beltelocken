@@ -9,7 +9,7 @@ Software Engineer Intern and Electrical Engineering Student at UFSC. I build sca
 - **Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 - **Infra:** ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Azure](https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### 🚀 Professional Experience (Closed-Source)
+### 🚀 Things I've built
 - **Retail Intelligence SaaS:** Architected a microservices platform with a computer vision pipeline (NVIDIA/YOLO) for real-time behavioral modeling.
 - **Predictive Maintenance ML:** Built unsupervised clustering models monitoring 1.4M+ devices, automating 150+ hours of monthly analysis.
 - **Enterprise Platforms:** Delivered full-stack executive dashboards and mobile MVPs (Flutter/Dart) integrating complex RBAC and Microsoft SSO.
