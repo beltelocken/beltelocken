@@ -1,6 +1,6 @@
 # Hi, I am Isabel Telöcken 🙋🏼‍♀️🇧🇷
 
-Full-stack developer and Engineering student at UFSC. I build scalable software and data solutions for industrial and multinational clients.
+Software Engineer Intern and Electrical Engineering Student at UFSC. I build scalable software and data solutions for industrial and multinational clients since 2024.
 
 ### 🛠️ Tech Stack
 
