@@ -17,4 +17,4 @@ Software Engineer Intern and Electrical Engineering Student at UFSC. I build sca
 ### 💻 Open Source & Public Projects
 - [**Meteorological Sensor OCR**](https://github.com/beltelocken/meteorological-sensor-yolo-ocr) - An Optical Character Recognition (OCR) pipeline leveraging YOLO to extract and process data from meteorological sensors.
  
-📍 Florianópolis, Brazil · [LinkedIn](www.linkedin.com/in/isabeltelöcken) · isabeltelocken@gmail.com
+📍 Florianópolis, Brazil · [LinkedIn](https://www.linkedin.com/in/isabeltel%C3%B6cken/) · isabeltelocken@gmail.com
